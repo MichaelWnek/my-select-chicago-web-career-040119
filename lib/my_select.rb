@@ -7,5 +7,5 @@ def my_select(array)
     end
   i+=1 
   end
-
+  select
 end
