@@ -3,5 +3,6 @@ def my_select(array)
  select = []
  while i < array.length
  if yield (array[i])
-   select << 
+   select << array[i]
+   
 end
