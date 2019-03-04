@@ -1,3 +1,3 @@
-def my_select(collection)
- my_select(nums) do |nums|
+def my_select(array)
+ i < 0 
 end
